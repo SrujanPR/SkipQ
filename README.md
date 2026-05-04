@@ -198,7 +198,7 @@ Auth: send `Authorization: Bearer <JWT>` for protected routes.
 ---
 
 ## Contributing
-- Built by Harshitha
+- Built by Srujan P R
 - Open an issue to discuss substantial changes.
 - Use conventional commits and PRs with clear descriptions.
 
