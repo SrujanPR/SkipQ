@@ -1,4 +1,4 @@
-# SkipQ — Smart Canteen Pre-Ordering Platform
+# SkipQ: Smart Canteen Pre-Ordering Platform
 
 An end-to-end web application that lets college students and staff skip the canteen queue. Students browse the canteen menu, build a cart, and reserve a pickup time slot. Canteen staff manage orders in real time, and college admins oversee canteens and onboarding.
 
@@ -97,7 +97,6 @@ VITE_API_BASE_URL=http://localhost:3001
 VITE_GOOGLE_CLIENT_ID=<your_google_oauth_client_id>.apps.googleusercontent.com
 ```
 
-> Never commit real keys. `.env` files are already in `.gitignore`.
 
 ### Install & Run
 
